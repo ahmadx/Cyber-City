@@ -1,3 +1,5 @@
 - Aplikasi
 - Berbasis web
 - PHP + Mysql
+  * Framework PHP 
+  * Bootstrap
