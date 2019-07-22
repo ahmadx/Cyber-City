@@ -3,3 +3,6 @@
 - PHP + Mysql
   * Framework PHP 
   * Bootstrap
+- Struktur sebuah kota, dimulai dari walikota dan para staffnya.
+- Maka ini menjadi sebuah Sistem Informasi Kota, yang bisa dijual kepada setiap walikota untuk menjadi portal web kota.
+
