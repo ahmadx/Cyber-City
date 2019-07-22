@@ -1,11 +1,3 @@
 Cyber City 
 1. Adalah sebuah rencana di tahun 2009.
-2. Dimulai dari pengadaan PC untuk siapapun yang berminat.
-3. Dilanjutkan dengan pengadaan koneksi internet yang memadai.
-4. Kemudian membuat sebuah web profil untuk Cyber City.
-5. Kemudian mengembangkan Web Profile ini menjadi sebuah web yang interaktif, dimana semua penggunanya harus melakukan login.
-6. Membuat Role untuk masing-masing pengguna.
-7. Setiap pengguna bisa melihat project di dalamnya dan bisa ikut serta dalam project tersebut.
-8. Silahkan mendaftar, dan orderlah PC kepada saya. Supaya saya dapat modal untuk membangun Cyber City ini. Hehehe....
-9. Antum waras?.... Insya Allah waras. :-)
-10. Ini cuma testing. Gak usah terlalu serius. Tapi mau serius juga gpp. Siapa takut?.... :-)
+2. 
